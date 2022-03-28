@@ -1,5 +1,7 @@
 server:
   port: 8800 # 服务提供方
+ # servlet:
+   # context-path: /center
 
 # 指定当前eureka客户端的注册地址,
 eureka:
