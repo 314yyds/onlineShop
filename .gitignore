@@ -24,3 +24,5 @@ hs_err_pid*
 /.idea
 /center/*.iml
 /gateway/*.iml
+/eureka-consumer/*.iml
+/eureka-consumer/eureka-consumer.iml
